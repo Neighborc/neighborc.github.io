@@ -2,7 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects
+
+[Genome Classification using Recurrent Neural Networks](/UCI_splice_tutorial)
 
 [Art Style Transfer using Convolutional Neural Networks](/sample_page)
 <img src="images/PtoStarry.png?raw=true"/>
@@ -10,24 +12,13 @@
 ---
 [Robot Vision and Mapping](/pdf/sample_presentation.pdf)
 <img src="images/ObjectDetection.png?raw=true"/>
+<img src="images/robot_grab_cube.gif?raw=true"/>
 
 ---
 [Image Reconstruction Using Sparse Approximation](/pdf/sample_presentation.pdf)
 <img src="images/lena_best.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
