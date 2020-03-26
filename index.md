@@ -11,7 +11,7 @@
 <img src="images/PtoStarry.png?raw=true"/>
 
 ---
-[Robot Vision and Mapping](/pdf/RoboticsFinalPresentation.pdf)
+[Robot Vision and Mapping](/pdf/RoboticsPresentation.pdf)
 <img src="images/ObjectDetection.png?raw=true"/>
 <img src="images/robot_grab_cube.gif?raw=true"/>
 
