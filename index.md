@@ -4,9 +4,9 @@
 
 ### Projects
 
-[Genome Classification using Recurrent Neural Networks](/UCI_splice_tutorial)
+[Genome Classification using Recurrent Neural Networks](notebooks/UCI_splice_tutorial)
 
-[Art Style Transfer using Convolutional Neural Networks](/sample_page)
+[Art Style Transfer using Convolutional Neural Networks](notebooks/UCI_splice_tutorial.html)
 <img src="images/PtoStarry.png?raw=true"/>
 
 ---
