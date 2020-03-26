@@ -5,8 +5,9 @@
 ### Projects
 
 [Genome Classification using Recurrent Neural Networks](notebooks/UCI_splice_tutorial_h)
+<img src="images/DNA.jpg?raw=true"/>
 
-[Art Style Transfer using Convolutional Neural Networks](pdf/StyleTransfer_FinalPresentation)
+[Art Style Transfer using Convolutional Neural Networks](pdf/StyleTransfer_FinalPresentation.pdf)
 <img src="images/PtoStarry.png?raw=true"/>
 
 ---
@@ -19,6 +20,7 @@
 <img src="images/lena_best.png?raw=true"/>
 
 ---
+[Unemployment Prediction]
 
 
 ---
