@@ -11,7 +11,7 @@
 <img src="images/PtoStarry.png?raw=true"/>
 
 ---
-[Robot Vision and Mapping](/pdf/sample_presentation.pdf)
+[Robot Vision and Mapping](/pdf/RoboticsFinalPresentation.pdf)
 <img src="images/ObjectDetection.png?raw=true"/>
 <img src="images/robot_grab_cube.gif?raw=true"/>
 
@@ -20,8 +20,8 @@
 <img src="images/lena_best.png?raw=true"/>
 
 ---
-[Unemployment Prediction]
-
+[Unemployment Rate Prediction and Seasonal Adjustment](/pdf/UnemploymentPresentation.pdf)
+<img src="images/UnemploymentLine.jpg?raw=true"/>
 
 ---
 <p style="font-size:14px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
