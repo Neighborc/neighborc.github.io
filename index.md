@@ -6,7 +6,7 @@
 
 [Genome Classification using Recurrent Neural Networks](notebooks/UCI_splice_tutorial)
 
-[Art Style Transfer using Convolutional Neural Networks](notebooks/UCI_splice_tutorial.html)
+[Art Style Transfer using Convolutional Neural Networks](notebooks/UCI_splice_tutorial_h)
 <img src="images/PtoStarry.png?raw=true"/>
 
 ---
