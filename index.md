@@ -11,7 +11,7 @@ In this work echo state networks, a form of recurrent neural networks, were expl
 <img src="images/DengueVirus.jpg?raw=true"/>
 
 ---
-[Genome Classification using Recurrent Neural Networks](notebooks/UCI_splice_tutorial_h)
+[DNA Genome Splice Junction Data Preprocessing and Classification Tutorial using RNNs](notebooks/UCI_splice_tutorial_h)
 
 
 Tutorial I made for other members of the lab to help them with preprocessing genome sequences. A simple LSTM RNN is demonstrated on the preprocessed data to classify the sequences.
