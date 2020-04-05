@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Masters Thesis Defense: Minimum Complexity Echo State Networks For Genome and Sequence Analysis](pdf/Chris_MastersThesisSlides_FinalVersion)
+[Masters Thesis Defense: Minimum Complexity Echo State Networks For Genome and Sequence Analysis](pdf/Chris_MastersThesisSlides_FinalVersion.pdf)
 
 
 In this work echo state networks, a form of recurrent neural networks, were explored with the motivation that their implementation in DNA would be more feasible. Echo state networks consist of a fixed recurrent hidden layer, called the reservoir, with a trainable linear readout layer. We explored the size and sparsity of these networks with an aim for minimum complexity, small size and fewer connections, while still achieving improvements over linear baseline models.
